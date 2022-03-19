@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		517CB96527E572D2008A36C0 /* LoginScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 517CB96427E572D2008A36C0 /* LoginScreen.swift */; };
 		518A302127E02C0D00871FDA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 518A302027E02C0D00871FDA /* AppDelegate.swift */; };
 		518A302327E02C0D00871FDA /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 518A302227E02C0D00871FDA /* SceneDelegate.swift */; };
 		518A302527E02C0D00871FDA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 518A302427E02C0D00871FDA /* ViewController.swift */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		517CB96427E572D2008A36C0 /* LoginScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginScreen.swift; sourceTree = "<group>"; };
 		518A301D27E02C0D00871FDA /* LoginViewCode-curso.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "LoginViewCode-curso.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		518A302027E02C0D00871FDA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		518A302227E02C0D00871FDA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 		517CB96327E5684D008A36C0 /* Screen */ = {
 			isa = PBXGroup;
 			children = (
+				517CB96427E572D2008A36C0 /* LoginScreen.swift */,
 			);
 			path = Screen;
 			sourceTree = "<group>";
@@ -159,6 +162,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				518A302527E02C0D00871FDA /* ViewController.swift in Sources */,
+				517CB96527E572D2008A36C0 /* LoginScreen.swift in Sources */,
 				518A302127E02C0D00871FDA /* AppDelegate.swift in Sources */,
 				518A302327E02C0D00871FDA /* SceneDelegate.swift in Sources */,
 			);
